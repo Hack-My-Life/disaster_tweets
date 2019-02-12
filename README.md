@@ -20,7 +20,7 @@ We are also indebeted to Sabber Ahamed's excellent series on [Medium](https://me
 
 Dependencies
 ============
--Python 3.6.*  
+-Python 3.6+
 -Pandas  
 -Numpy   
 -Sklearn  
