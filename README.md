@@ -3,6 +3,8 @@
 
 
 
+
+
 About
 =====
 This project is inspired by Halide Bey's PyCon UK 2018 presentation and associated [repo](https://github.com/halidebey/PyCon2018/blob/master/analysis.py). She uses the Social Media Disasters Dataset from Figure-Eight.com, which contains 10K+ tweets containing terms suggesting they may refer to a disaster. The dataset can be found by searching the page for 'Disasters on social media'. 
