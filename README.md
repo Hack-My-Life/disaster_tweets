@@ -9,7 +9,7 @@ About
 =====
 This project was inspired by Halide Bey's PyCon UK 2018 presentation and associated [repo](https://github.com/halidebey/PyCon2018/blob/master/analysis.py). She uses the Social Media Disasters Dataset from Figure-Eight.com, which contains 10K+ tweets containing terms suggesting they may refer to a disaster. The dataset can be found by searching the site for "Disasters on social media". 
   
-Some of the tweets use figurative language, and therefore, do not refer to actual disasters. For example:
+Some of the tweets use figurative language, and therefore do not refer to actual disasters. For example:
   
   "Rave in the woods was incredible, burned the place to the ground!"
   
