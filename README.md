@@ -20,7 +20,7 @@ The repo was also inspired by Sabber Ahamed's excellent series on [Medium](https
 
 Dependencies
 ============
--Python 3.6+
+-Python 3.6+  
 -Pandas  
 -Numpy   
 -Sklearn  
