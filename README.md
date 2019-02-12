@@ -27,4 +27,4 @@ Dependencies
 -Scipy  
 -Keras  
 -NLTK  
-*Plotly  
+-Plotly  
