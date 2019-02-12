@@ -15,7 +15,7 @@ Some of the tweets use figurative language and therefore do not refer to actual 
   
 The dataset includes labels indicating which of the tweets refer to actual disasters. Halide uses logistic regression to create a classifier with a baseline accuracy of ~77.5%. The aim of this project is to examine other Machine Learning/Deep Learning models to determine if this initial accuracy score can be improved upon. For the sake of consistency, I have preserved Halide's original train/test split. 
   
-The repo is also inspired by Sabber Ahamed's excellent series on [Medium](https://medium.com/@sabber/classifying-yelp-review-comments-using-lstm-and-word-embeddings-part-1-eb2275e4066b) and corresponding git [repo](https://github.com/msahamed/yelp_comments_classification_nlp) overviewing sentiment analysis with Keras. Furthermore, I have utilized Alex Sánchez's custom implementation of NBSVM, outlined in the comments of this Kaggle [kernel](https://www.kaggle.com/jhoward/nb-svm-strong-linear-baseline), in order to test an additional ML approach against SVM and Multinomial Naive Bayes classifiers.
+The repo was also inspired by Sabber Ahamed's excellent series on [Medium](https://medium.com/@sabber/classifying-yelp-review-comments-using-lstm-and-word-embeddings-part-1-eb2275e4066b) and corresponding git [repo](https://github.com/msahamed/yelp_comments_classification_nlp) overviewing sentiment analysis with Keras. Furthermore, I have utilized Alex Sánchez's custom implementation of NBSVM, outlined in the comments of this Kaggle [kernel](https://www.kaggle.com/jhoward/nb-svm-strong-linear-baseline), in order to test an additional ML approach against SVM and Multinomial Naive Bayes classifiers.
 
 
 Dependencies
