@@ -11,7 +11,7 @@ This project was inspired by Halide Bey's PyCon UK 2018 presentation and associa
   
 Some of the tweets use figurative language, and therefore, do not refer to actual disasters. For example:
   
-  "Rave in the woods was incredible, we burned the place to the ground!"
+  "Rave in the woods was incredible, burned the place to the ground!"
   
 The dataset includes labels indicating which of the tweets refer to actual disasters. Halide uses logistic regression to create a classifier with a baseline accuracy of ~78%. The aim of this project is to examine other Machine Learning/Deep Learning models to determine if this initial accuracy score can be improved. For the sake of consistency, I have preserved Halide's original train/test split. 
   
